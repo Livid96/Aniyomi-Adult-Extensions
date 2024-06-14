@@ -1,0 +1,62 @@
+[ 
+   { 
+     "name": "Aniyomi: PornHub", 
+     "pkg": "eu.kanade.tachiyomi.animeextension.all.pornhub", 
+     "apk": "aniyomi-all.pornhub-v13.6.apk", 
+     "lang": "all", 
+     "code": 5, 
+     "version": "13.6", 
+     "nsfw": 1, 
+     "hasReadme": 0, 
+     "hasChangelog": 0, 
+     "sources": [ 
+       { 
+         "name": "PornHub", 
+         "lang": "all", 
+         "id": "163747473533778320", 
+         "baseUrl": "https://pornhub.com", 
+         "versionId": 1 
+       } 
+     ] 
+   },
+   { 
+     "name": "Aniyomi: Xnxx", 
+     "pkg": "eu.kanade.tachiyomi.animeextension.all.xnxx", 
+     "apk": "aniyomi-all.xnxx-v13.2.apk", 
+     "lang": "all", 
+     "code": 5, 
+     "version": "13.2", 
+     "nsfw": 1, 
+     "hasReadme": 0, 
+     "hasChangelog": 0, 
+     "sources": [ 
+       { 
+         "name": "Xnxx", 
+         "lang": "all", 
+         "id": "1853973586604481267", 
+         "baseUrl": "https://www.xnxx115.com", 
+         "versionId": 1 
+       } 
+     ] 
+   },
+   { 
+     "name": "Aniyomi: XVideos", 
+     "pkg": "eu.kanade.tachiyomi.animeextension.all.xvideos", 
+     "apk": "aniyomi-all.xvideos-v13.3.apk", 
+     "lang": "zh", 
+     "code": 5, 
+     "version": "13.3", 
+     "nsfw": 1, 
+     "hasReadme": 0, 
+     "hasChangelog": 0, 
+     "sources": [ 
+       { 
+         "name": "XVideos", 
+         "lang": "all ", 
+         "id": "8016727706963226859", 
+         "baseUrl": "https://www.xv-videos1.com", 
+         "versionId": 1 
+       } 
+     ] 
+   } 
+     ]
