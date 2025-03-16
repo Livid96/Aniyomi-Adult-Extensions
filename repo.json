@@ -1,7 +1,7 @@
-{ 
-   "meta": { 
-     "name": "LIVID(18+)", 
-     "website": "https://github.com/Livid96/Aniyomi-Adult-Extensions", 
-     "signingKeyFingerprint": "no-info" 
-   } 
-}
+{
+    "meta": {
+      "name": "LIVID(18+)",
+      "website": "https://github.com/Livid96/Aniyomi-Adult-Extensions",
+      "signingKeyFingerprint": "no-info"
+    }
+  }
